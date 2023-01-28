@@ -1,0 +1,1 @@
+print('We will implement linear search algorithm here.')
