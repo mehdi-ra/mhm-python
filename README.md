@@ -1,2 +1,4 @@
-# mhm-python
-This repository created beacause we wanted to code together and save our examples here.
+# `M`ehdi `H`adi `M`ehrdad.
+## Why this repository created?
+We are very basic learners of python and we want to explore tools that are used in developing applications along learning python and other stuff.
+
